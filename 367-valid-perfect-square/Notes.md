@@ -1,0 +1,1 @@
+<h2>valid-perfect-square Notes</h2><hr>[ Time taken: 2hrs 11m 51s ]
